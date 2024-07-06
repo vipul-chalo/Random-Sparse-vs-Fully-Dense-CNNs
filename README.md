@@ -10,12 +10,14 @@ I performed the image classification on 2 different models with similar structur
 
 Run 1:
 
-The dense model consists 2 dense layers with 512 and 128 units before the final predictions. 
+The dense model consists 2 dense layers with 512 and 128 units before the final predictions.
+
 The sparse model consists 2 sparse layers with 512 and 128 units before the final predictions.
 
 Run 2:
 
-The dense model consists 4 dense layers with 2048, 512, 128, and 32 units before the final predictions. 
+The dense model consists 4 dense layers with 2048, 512, 128, and 32 units before the final predictions.
+
 The sparse model consists 4 sparse layers with 2048, 512, 128, and 32 units before the final predictions.
 
 See the included plots for a summary and conclusion of the work.
@@ -36,11 +38,13 @@ You should also have some sort of Python environment manager installed, such as 
 1. Densely Connected CNN:
 
    Run 1: In the fully connected CNN, the model had a total of 1,403,498 trainable parameters.
+
    Run 2: In the fully connected CNN, the model had a total of 21,044,682 trainable parameters.
 
-2. Sparsely Connected CNN:
+3. Sparsely Connected CNN:
 
    Run 1: In the sparsely connected CNN, the model had a total of 353,386 trainable parameters, which is around 74.82% less trainable parameters than the dense model.
+
    Run 2: In the sparsely connected CNN, the model had a total of 3,323,818 trainable parameters, which is around 84.21% less trainable parameters than the dense model.
 
 ## 🎯 Results:
