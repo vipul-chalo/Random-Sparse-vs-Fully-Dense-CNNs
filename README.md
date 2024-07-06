@@ -10,15 +10,15 @@ I performed the image classification on 2 different models with similar structur
 
 Run 1:
 
-   The dense model consists 2 dense layers with 512 and 128 units before the final predictions.
+      The dense model consists 2 dense layers with 512 and 128 units before the final predictions.
 
-   The sparse model consists 2 sparse layers with 512 and 128 units before the final predictions.
+      The sparse model consists 2 sparse layers with 512 and 128 units before the final predictions.
 
 Run 2:
 
-   The dense model consists 4 dense layers with 2048, 512, 128, and 32 units before the final predictions.
+      The dense model consists 4 dense layers with 2048, 512, 128, and 32 units before the final predictions.
 
-   The sparse model consists 4 sparse layers with 2048, 512, 128, and 32 units before the final predictions.
+      The sparse model consists 4 sparse layers with 2048, 512, 128, and 32 units before the final predictions.
 
 See the included plots for a summary and conclusion of the work.
 
