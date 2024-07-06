@@ -32,12 +32,12 @@ You should also have some sort of Python environment manager installed, such as 
 ## 🏗️ Included Models:
 
 1. Densely Connected CNN:
-   Run 1: In the fully connected CNN, the model had a total of 1,403,498 trainable parameters.
-   Run 2: In the fully connected CNN, the model had a total of 21,044,682 trainable parameters.
+Run 1: In the fully connected CNN, the model had a total of 1,403,498 trainable parameters.
+Run 2: In the fully connected CNN, the model had a total of 21,044,682 trainable parameters.
 
 2. Sparsely Connected CNN:
-   Run 1: In the sparsely connected CNN, the model had a total of 353,386 trainable parameters, which is around 74.82% less trainable parameters than the dense model.
-   Run 2: In the sparsely connected CNN, the model had a total of 3,323,818 trainable parameters, which is around 84.21% less trainable parameters than the dense model.
+Run 1: In the sparsely connected CNN, the model had a total of 353,386 trainable parameters, which is around 74.82% less trainable parameters than the dense model.
+Run 2: In the sparsely connected CNN, the model had a total of 3,323,818 trainable parameters, which is around 84.21% less trainable parameters than the dense model.
 
 ## 🎯 Results:
 
